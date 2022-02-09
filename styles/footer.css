@@ -1,0 +1,78 @@
+.footer {
+    background-color: #EEEEEE;
+    padding: 92px 0 43px;
+}
+
+.footer-flex {
+    display: flex;
+    justify-content: space-between;
+
+    padding-bottom: 95px;
+}
+
+.case-studies {
+    display: flex;
+    flex-direction: column;
+    padding-right: 70px;
+}
+
+.footer-title {
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 28px;
+}
+
+.footer-text {
+    margin-bottom: 15px;
+    width: 290px;
+}
+
+.footer_logo_1 {
+    width: 80px;
+    height: 32px;
+    margin: 31px 0 11px;
+}
+
+.nav {
+    width: 187px;
+}
+
+.nav-title {
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 21px;
+}
+
+.footer-list {
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.footer-list .footer-list-item:not(:last-child) {
+    margin-bottom: 15px;
+}
+
+.hr {
+    background: #000000;
+    margin: 0;
+}
+
+.footer-bottom {
+    padding-top: 52px;
+}
+
+.footer-logo-link {
+    margin-right: 15px;
+}
+
+.footer-bottom-text {
+    font-size: 12px;
+    line-height: 15px;
+    width: 295px;;
+}
+
+.footer-copyright {
+    margin-right: 76px;
+    width: 109px;
+}
+
